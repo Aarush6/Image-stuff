@@ -1,0 +1,43 @@
+body{
+    background: pink;
+    font-family: 'Abel', sans-serif;
+}
+
+.header_div{
+    background: turquoise;
+    color: yellow;
+}
+
+.header_div p{
+    font-family: 'Abel', sans-serif;
+    color: yellow;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button{
+ margin-top: 30px;
+ width: 130px;
+ font-family: 'Abel', sans-serif;
+ font-weight: bolder;
+letter-spacing: 2px;
+color: yellow;
+}
+
+.copyright{
+    bottom: 0;
+position: fixed;
+color: turquoise;
+background-color: yellow;
+letter-spacing: 2px;
+font-family: 'Abel', sans-serif;
+font-size: 13px;
+font-weight: bolder;
+width:100%;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px grey;
+}
+
+
